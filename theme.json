@@ -107,11 +107,10 @@
           {
             "foreground": "#f1184c",
             "style": "plain",
-            "template": " ",
+            "template": "\u2800 ",
             "type": "text"
           }
-        ],
-        "type": "prompt"
+        ]
       }
   ],
   "final_space": true,
