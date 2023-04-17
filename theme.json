@@ -92,7 +92,7 @@
         "newline": true,
         "segments": [
           {
-            "foreground": "#f1184c",
+            "foreground": "#ffffff",
             "style": "plain",
             "template": "\u003E ",
             "type": "text"
