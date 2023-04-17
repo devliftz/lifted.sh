@@ -94,11 +94,10 @@
         {
           "foreground": "#f1184c",
           "style": "plain",
-          "template": "\u003E ",
+          "template": "\u2800 ",
           "type": "text"
         }
       ],
-      "type": "prompt"
     },
     {
         "alignment": "left",
@@ -107,7 +106,7 @@
           {
             "foreground": "#f1184c",
             "style": "plain",
-            "template": "\u2800 ",
+            "template": "\u003E ",
             "type": "text"
           }
         ]
