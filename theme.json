@@ -99,7 +99,20 @@
         }
       ],
       "type": "prompt"
-    }
+    },
+    {
+        "alignment": "left",
+        "newline": true,
+        "segments": [
+          {
+            "foreground": "#f1184c",
+            "style": "plain",
+            "template": " ",
+            "type": "text"
+          }
+        ],
+        "type": "prompt"
+      }
   ],
   "final_space": true,
   "version": 2
