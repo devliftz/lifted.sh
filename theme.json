@@ -30,7 +30,14 @@
             "template": " \ue5ff {{ .Path }} ",
             "type": "path"
           },
-          
+          {
+            "background": "#4caf50",
+            "foreground": "#193549",
+            "powerline_symbol": "\ue0b0",
+            "style": "powerline",
+            "template": "Test Text",
+            "type": "text"
+          },
           {
             "background": "#4caf50",
             "foreground": "#193549",
