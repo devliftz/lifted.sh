@@ -31,6 +31,13 @@
             "type": "path"
           },
           {
+            "background": "#3A86FF",
+            "foreground": "#ffffff",
+            "style": "powerline",
+            "template": "Test text",
+            "type": "session"
+          },
+          {
             "background": "#4caf50",
             "foreground": "#193549",
             "powerline_symbol": "\ue0b0",
