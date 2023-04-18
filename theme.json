@@ -33,7 +33,7 @@
           {
             "background": "#4caf50",
             "foreground": "#193549",
-            "powerline_symbol": "\ue0b0",
+            "powerline_symbol": "\ue0b6",
             "style": "powerline",
             "template": "Test Text",
             "type": "text"
